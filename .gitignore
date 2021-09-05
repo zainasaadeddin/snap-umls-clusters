@@ -1,0 +1,3 @@
+./UMLS_API_KEY 
+./medical_terms/.mypy_cache
+./medical_terms/__pycache__

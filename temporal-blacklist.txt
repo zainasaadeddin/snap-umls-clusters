@@ -1,0 +1,5 @@
+often
+sometimes
+week
+year
+currently

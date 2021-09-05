@@ -1,0 +1,8 @@
+spacy
+scispacy
+numpy
+sklearn
+requests
+owlready2
+pypdf2
+networkx

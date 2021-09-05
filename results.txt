@@ -1,0 +1,611 @@
+Calculating clusters... expansion rules: current
+Found 538 unique UMLS terms before expansion.
+Found 583 unique UMLS terms after expansion.
+[ 2  1  2  2  1  2  1  2  2  3  2  0  2  3  2  2  2  2  2  5  2  2 17  2
+  2  2  2  2  2  2  2  2  2  2  2  2  1  2  2  1  1  2  2  2  6 13 15  2
+  6 16  2  2  3  2  2 11  2 11  2  2 14 14 14 14 14  4  4  7  4  4  4  8
+  4  9  9  9  2  3 12 10  5  5  0  0  5  5  0  0  5  5]
+Found 17 groups.
+Cluster 0:
+	Often leaves seat in classroom or in other situations in which remaining seated is expected
+	Has problems in completion of work on classroom assignments
+	Has problems in accuracy or neatness of written work in the classroom
+	Has problems in interactions with peers in the classroom
+	Has problems in interactions with staff (teacher or aide)
+Cluster 1:
+	Often has difficulty sustaining attention in tasks or play activities
+	Often has difficulty organizing tasks and activities
+	Often loses things necessary for  activities (e.g., toys, school assignments, pencils, or books)
+	Often disturbs other children
+	Often teases other children and interferes with their activities
+	Often is aggressive to other children (e.g., picks  fights or bullies)
+Cluster 2:
+	Often fails to give close attention to details or makes careless mistakes in schoolwork or tasks
+	Often does not seem to listen when spoken to directly
+	Often does not follow through on instructions and fails to finish schoolwork, chores, or duties
+	Often avoids, dislikes, or reluctantly engages in tasks requiring sustained mental effort
+	Often is distracted by extraneous stimuli
+	Often is forgetful in daily activities
+	Often fidgets with hands or feet or squirms in seat
+	Often runs about or climbs excessively in situations in which it is inappropriate
+	Often is ﬁon the goﬂ or often acts as if  ﬁdriven by a motorﬂ
+	Often talks excessively
+	Often blurts out answers before questions have been completed
+	Often has difficulty awaiting turn
+	Often interrupts or intrudes on others (e.g., butts into conversations/games)
+	Often loses temper
+	Often argues with adults
+	Often deliberately does things that annoy other people
+	Often blames others for his or her mistakes or misbehavior
+	Often touchy or easily annoyed by others
+	Often is angry and resentful
+	Often is spiteful or vindictive
+	Often is quarrelsome
+	Often is negative, defiant, disobedient, or hostile toward authority figures
+	Often makes noises (e.g., humming or odd sounds)
+	Often is excitable, impulsive
+	Often cries easily
+	Often is uncooperative
+	Often acts ﬁsmartﬂ
+	Often is restless or overactive
+	Often changes mood quickly and drastically
+	Often easily frustrated if demand are not met immediately
+	Often is destructive with property of others (e.g., vandalism)
+	Often is deceitful (e.g., steals, lies, forges, copies the work of others, or ﬁconsﬂ others)
+	Often and seriously violates rules (e.g., is truant, runs away, or completely ignores class rules)
+	Has repetitive motor behavior (e.g., hand waving, body rocking, or picking at skin)
+	Often is restless or seems keyed up or on edge
+	Often is easily fatigued
+	Often is irritable
+	Often has muscle tension
+	Often has daytime sleepiness (unintended sleeping in inappropriate situations)
+	Often has need for undue admiration, grandiose behavior, or lack of empathy
+	Often has instability in relationships with others, reactive mood, and impulsivity
+	Currently is hypervigilant (overly watchful or alert) or has exaggerated startle response
+Cluster 3:
+	Often has difficulty maintaining alertness, orienting to requests, or executing directions
+	Often has difficulty playing or engaging in leisure activities quietly
+	Often has difficulty concentrating (mind goes blank)
+	Currently is irritable, has anger outbursts, or has difficulty concentrating
+Cluster 4:
+	Sometimes for at least 2 weeks has depressed mood (sad, hopeless, discouraged)
+	Sometimes for at least 2 weeks has irritable or cranky mood (not just when frustrated)
+	Sometimes for at least 2 weeks has psychomotor agitation (even more active than usual)
+	Sometimes for at least 2 weeks has psychomotor retardation (slowed down in most activities)
+	Sometimes for at least 2 weeks is fatigued or has loss of energy
+	Sometimes for at least 2 weeks has diminished ability to think or concentrate
+Cluster 5:
+	Often has difficulty sitting still, being quiet, or inhibiting impulses in the classroom or at home
+	Has difficulty getting started on classroom assignments
+	Has difficulty staying on  task for an entire classroom period
+	Has difficulty attending to a group classroom activity or discussion
+	Has difficulty making transitions to the next topic or classroom period
+	Has difficulty remaining quiet according to classroom rules
+	Has difficulty staying seated according to classroom rules
+Cluster 6:
+	Has persistent pattern of violating the basic rights of others or major societal norms
+	Has obsessions (persistent and intrusive inappropriate ideas, thoughts, or impulses)
+Cluster 7:
+	Sometimes for at least 2 weeks has markedly diminished interest or pleasure in most activities
+Cluster 8:
+	Sometimes for at least 2 weeks has feelings of worthlessness or excessive, inappropriate guilt
+Cluster 9:
+	Chronic low self-esteem most of the time for at least a year
+	Chronic poor concentration or difficulty making decisions most of the time for at least a year
+	Chronic feelings of hopelessness most of the time for at least a year
+Cluster 10:
+	Currently has a behavioral (e.g., fighting, vandalism, truancy) response to stress
+Cluster 11:
+	Often has excessive anxiety and worry (e.g., apprehensive expectation)
+	Often has excessive emotionality and attention-seeking behavior
+Cluster 12:
+	Currently has an emotional (e.g., nervous, worried, hopeless, tearful) response to stress
+Cluster 13:
+	Has episodes of failure to resist aggressive impulses (to assault others or to destroy property)
+Cluster 14:
+	Sometimes for at least a week has inflated self esteem or grandiosity
+	Sometimes for at least a week is more talkative than usual or seems pressured to keep talking
+	Sometimes for at least a week has flight of ideas or says that thoughts are racing
+	Sometimes for at least a week has elevated, expansive or euphoric mood
+	Sometimes for at least a week is excessively involved in pleasurable but risky activities
+Cluster 15:
+	Has motor or verbal tics (sudden, rapid, recurrent, nonrhythmic motor or verbal activity)
+Cluster 16:
+	Has compulsions (repetitive behaviors or mental acts to reduce anxiety or distress)
+Cluster 17:
+	Often actively defies or refuses adult requests or rules
+Calculating clusters... expansion rules: current + ancestor + descendant
+Found 538 unique UMLS terms before expansion.
+Found 30404 unique UMLS terms after expansion.
+[60  2 79 41  2 72 58 77 80 45 63 54  0 64 59  0  0 78 67 61  0 46 49 29
+ 66 56 74  0  0 73 70 36  0 76  0 65 50 53  0 75 57 71 68 47 48 51 35 23
+ 43 22 44 33 39 28 38 26 37 40 62 42 31 52 21 55 27 30 20 19 24 11 32 69
+ 18 25 10 13 17 14  6 34  8 12 15 16  7  5  9  3  4  1]
+Found 80 groups.
+Cluster 0:
+	Often runs about or climbs excessively in situations in which it is inappropriate
+	Often talks excessively
+	Often blurts out answers before questions have been completed
+	Often loses temper
+	Often is spiteful or vindictive
+	Often is quarrelsome
+	Often cries easily
+	Often acts ﬁsmartﬂ
+	Often easily frustrated if demand are not met immediately
+Cluster 1:
+	Has difficulty staying seated according to classroom rules
+Cluster 2:
+	Often has difficulty sustaining attention in tasks or play activities
+	Often has difficulty organizing tasks and activities
+Cluster 3:
+	Has problems in interactions with staff (teacher or aide)
+Cluster 4:
+	Has difficulty remaining quiet according to classroom rules
+Cluster 5:
+	Has difficulty making transitions to the next topic or classroom period
+Cluster 6:
+	Currently has an emotional (e.g., nervous, worried, hopeless, tearful) response to stress
+Cluster 7:
+	Has difficulty attending to a group classroom activity or discussion
+Cluster 8:
+	Has difficulty getting started on classroom assignments
+Cluster 9:
+	Has problems in interactions with peers in the classroom
+Cluster 10:
+	Chronic poor concentration or difficulty making decisions most of the time for at least a year
+Cluster 11:
+	Sometimes for at least 2 weeks has psychomotor retardation (slowed down in most activities)
+Cluster 12:
+	Has difficulty staying on  task for an entire classroom period
+Cluster 13:
+	Chronic feelings of hopelessness most of the time for at least a year
+Cluster 14:
+	Currently is irritable, has anger outbursts, or has difficulty concentrating
+Cluster 15:
+	Has problems in completion of work on classroom assignments
+Cluster 16:
+	Has problems in accuracy or neatness of written work in the classroom
+Cluster 17:
+	Currently is hypervigilant (overly watchful or alert) or has exaggerated startle response
+Cluster 18:
+	Sometimes for at least 2 weeks has diminished ability to think or concentrate
+Cluster 19:
+	Sometimes for at least 2 weeks has markedly diminished interest or pleasure in most activities
+Cluster 20:
+	Sometimes for at least 2 weeks has irritable or cranky mood (not just when frustrated)
+Cluster 21:
+	Sometimes for at least a week has flight of ideas or says that thoughts are racing
+Cluster 22:
+	Has compulsions (repetitive behaviors or mental acts to reduce anxiety or distress)
+Cluster 23:
+	Has repetitive motor behavior (e.g., hand waving, body rocking, or picking at skin)
+Cluster 24:
+	Sometimes for at least 2 weeks has psychomotor agitation (even more active than usual)
+Cluster 25:
+	Chronic low self-esteem most of the time for at least a year
+Cluster 26:
+	Often has excessive anxiety and worry (e.g., apprehensive expectation)
+Cluster 27:
+	Sometimes for at least a week is excessively involved in pleasurable but risky activities
+Cluster 28:
+	Often is irritable
+Cluster 29:
+	Often deliberately does things that annoy other people
+Cluster 30:
+	Sometimes for at least 2 weeks has depressed mood (sad, hopeless, discouraged)
+Cluster 31:
+	Sometimes for at least a week has inflated self esteem or grandiosity
+Cluster 32:
+	Sometimes for at least 2 weeks is fatigued or has loss of energy
+Cluster 33:
+	Often is easily fatigued
+Cluster 34:
+	Currently has a behavioral (e.g., fighting, vandalism, truancy) response to stress
+Cluster 35:
+	Has motor or verbal tics (sudden, rapid, recurrent, nonrhythmic motor or verbal activity)
+Cluster 36:
+	Often is excitable, impulsive
+Cluster 37:
+	Often has daytime sleepiness (unintended sleeping in inappropriate situations)
+Cluster 38:
+	Often has muscle tension
+Cluster 39:
+	Often has difficulty concentrating (mind goes blank)
+Cluster 40:
+	Often has excessive emotionality and attention-seeking behavior
+Cluster 41:
+	Often does not follow through on instructions and fails to finish schoolwork, chores, or duties
+Cluster 42:
+	Often has instability in relationships with others, reactive mood, and impulsivity
+Cluster 43:
+	Has obsessions (persistent and intrusive inappropriate ideas, thoughts, or impulses)
+Cluster 44:
+	Often is restless or seems keyed up or on edge
+Cluster 45:
+	Often has difficulty maintaining alertness, orienting to requests, or executing directions
+Cluster 46:
+	Often argues with adults
+Cluster 47:
+	Often and seriously violates rules (e.g., is truant, runs away, or completely ignores class rules)
+Cluster 48:
+	Has persistent pattern of violating the basic rights of others or major societal norms
+Cluster 49:
+	Often actively defies or refuses adult requests or rules
+Cluster 50:
+	Often disturbs other children
+Cluster 51:
+	Has episodes of failure to resist aggressive impulses (to assault others or to destroy property)
+Cluster 52:
+	Sometimes for at least a week is more talkative than usual or seems pressured to keep talking
+Cluster 53:
+	Often changes mood quickly and drastically
+Cluster 54:
+	Often leaves seat in classroom or in other situations in which remaining seated is expected
+Cluster 55:
+	Sometimes for at least a week has elevated, expansive or euphoric mood
+Cluster 56:
+	Often touchy or easily annoyed by others
+Cluster 57:
+	Often is aggressive to other children (e.g., picks  fights or bullies)
+Cluster 58:
+	Often loses things necessary for  activities (e.g., toys, school assignments, pencils, or books)
+Cluster 59:
+	Often is ﬁon the goﬂ or often acts as if  ﬁdriven by a motorﬂ
+Cluster 60:
+	Often fails to give close attention to details or makes careless mistakes in schoolwork or tasks
+Cluster 61:
+	Often has difficulty sitting still, being quiet, or inhibiting impulses in the classroom or at home
+Cluster 62:
+	Often has need for undue admiration, grandiose behavior, or lack of empathy
+Cluster 63:
+	Often fidgets with hands or feet or squirms in seat
+Cluster 64:
+	Often has difficulty playing or engaging in leisure activities quietly
+Cluster 65:
+	Often is restless or overactive
+Cluster 66:
+	Often blames others for his or her mistakes or misbehavior
+Cluster 67:
+	Often interrupts or intrudes on others (e.g., butts into conversations/games)
+Cluster 68:
+	Often is deceitful (e.g., steals, lies, forges, copies the work of others, or ﬁconsﬂ others)
+Cluster 69:
+	Sometimes for at least 2 weeks has feelings of worthlessness or excessive, inappropriate guilt
+Cluster 70:
+	Often makes noises (e.g., humming or odd sounds)
+Cluster 71:
+	Often is destructive with property of others (e.g., vandalism)
+Cluster 72:
+	Often avoids, dislikes, or reluctantly engages in tasks requiring sustained mental effort
+Cluster 73:
+	Often is negative, defiant, disobedient, or hostile toward authority figures
+Cluster 74:
+	Often is angry and resentful
+Cluster 75:
+	Often teases other children and interferes with their activities
+Cluster 76:
+	Often is uncooperative
+Cluster 77:
+	Often is distracted by extraneous stimuli
+Cluster 78:
+	Often has difficulty awaiting turn
+Cluster 79:
+	Often does not seem to listen when spoken to directly
+Cluster 80:
+	Often is forgetful in daily activities
+Calculating clusters... expansion rules: descendant
+Found 538 unique UMLS terms before expansion.
+Found 27994 unique UMLS terms after expansion.
+[21  6  0 39  6 34  4  0 37 24 23 36  0 16 40  0  0 16 31 16  0  7  7 27
+ 38  0  0  0  0  0  0  0  0  0  0  3 22  0  0 41 35 19 32  0 15 25 26 11
+ 30 10  3 13 16  0 33 29  0 17 14 12  0  0  0  0  4  0  0  4 18  4 13 42
+  0 20 16  0  0  9  8 28 16  2  1  1  5 16  1  1 16  2]
+Found 42 groups.
+Cluster 0:
+	Often does not seem to listen when spoken to directly
+	Often is distracted by extraneous stimuli
+	Often runs about or climbs excessively in situations in which it is inappropriate
+	Often talks excessively
+	Often blurts out answers before questions have been completed
+	Often loses temper
+	Often touchy or easily annoyed by others
+	Often is angry and resentful
+	Often is spiteful or vindictive
+	Often is quarrelsome
+	Often is negative, defiant, disobedient, or hostile toward authority figures
+	Often makes noises (e.g., humming or odd sounds)
+	Often is excitable, impulsive
+	Often cries easily
+	Often is uncooperative
+	Often acts ﬁsmartﬂ
+	Often changes mood quickly and drastically
+	Often easily frustrated if demand are not met immediately
+	Often and seriously violates rules (e.g., is truant, runs away, or completely ignores class rules)
+	Often is irritable
+	Often has daytime sleepiness (unintended sleeping in inappropriate situations)
+	Sometimes for at least a week has inflated self esteem or grandiosity
+	Sometimes for at least a week is more talkative than usual or seems pressured to keep talking
+	Sometimes for at least a week has flight of ideas or says that thoughts are racing
+	Sometimes for at least a week has elevated, expansive or euphoric mood
+	Sometimes for at least 2 weeks has depressed mood (sad, hopeless, discouraged)
+	Sometimes for at least 2 weeks has irritable or cranky mood (not just when frustrated)
+	Sometimes for at least 2 weeks has diminished ability to think or concentrate
+	Chronic feelings of hopelessness most of the time for at least a year
+	Currently is hypervigilant (overly watchful or alert) or has exaggerated startle response
+Cluster 1:
+	Has problems in completion of work on classroom assignments
+	Has problems in accuracy or neatness of written work in the classroom
+	Has problems in interactions with peers in the classroom
+	Has problems in interactions with staff (teacher or aide)
+Cluster 2:
+	Has difficulty staying on  task for an entire classroom period
+	Has difficulty staying seated according to classroom rules
+Cluster 3:
+	Often is restless or overactive
+	Often is restless or seems keyed up or on edge
+Cluster 4:
+	Often loses things necessary for  activities (e.g., toys, school assignments, pencils, or books)
+	Sometimes for at least a week is excessively involved in pleasurable but risky activities
+	Sometimes for at least 2 weeks has markedly diminished interest or pleasure in most activities
+	Sometimes for at least 2 weeks has psychomotor retardation (slowed down in most activities)
+Cluster 5:
+	Has difficulty attending to a group classroom activity or discussion
+Cluster 6:
+	Often has difficulty sustaining attention in tasks or play activities
+	Often has difficulty organizing tasks and activities
+Cluster 7:
+	Often argues with adults
+	Often actively defies or refuses adult requests or rules
+Cluster 8:
+	Currently has an emotional (e.g., nervous, worried, hopeless, tearful) response to stress
+Cluster 9:
+	Currently is irritable, has anger outbursts, or has difficulty concentrating
+Cluster 10:
+	Has compulsions (repetitive behaviors or mental acts to reduce anxiety or distress)
+Cluster 11:
+	Has repetitive motor behavior (e.g., hand waving, body rocking, or picking at skin)
+Cluster 12:
+	Often has instability in relationships with others, reactive mood, and impulsivity
+Cluster 13:
+	Often is easily fatigued
+	Sometimes for at least 2 weeks is fatigued or has loss of energy
+Cluster 14:
+	Often has need for undue admiration, grandiose behavior, or lack of empathy
+Cluster 15:
+	Has persistent pattern of violating the basic rights of others or major societal norms
+Cluster 16:
+	Often has difficulty playing or engaging in leisure activities quietly
+	Often has difficulty awaiting turn
+	Often has difficulty sitting still, being quiet, or inhibiting impulses in the classroom or at home
+	Often has difficulty concentrating (mind goes blank)
+	Chronic poor concentration or difficulty making decisions most of the time for at least a year
+	Has difficulty getting started on classroom assignments
+	Has difficulty making transitions to the next topic or classroom period
+	Has difficulty remaining quiet according to classroom rules
+Cluster 17:
+	Often has excessive emotionality and attention-seeking behavior
+Cluster 18:
+	Sometimes for at least 2 weeks has psychomotor agitation (even more active than usual)
+Cluster 19:
+	Often is destructive with property of others (e.g., vandalism)
+Cluster 20:
+	Chronic low self-esteem most of the time for at least a year
+Cluster 21:
+	Often fails to give close attention to details or makes careless mistakes in schoolwork or tasks
+Cluster 22:
+	Often disturbs other children
+Cluster 23:
+	Often fidgets with hands or feet or squirms in seat
+Cluster 24:
+	Often has difficulty maintaining alertness, orienting to requests, or executing directions
+Cluster 25:
+	Has episodes of failure to resist aggressive impulses (to assault others or to destroy property)
+Cluster 26:
+	Has motor or verbal tics (sudden, rapid, recurrent, nonrhythmic motor or verbal activity)
+Cluster 27:
+	Often deliberately does things that annoy other people
+Cluster 28:
+	Currently has a behavioral (e.g., fighting, vandalism, truancy) response to stress
+Cluster 29:
+	Often has excessive anxiety and worry (e.g., apprehensive expectation)
+Cluster 30:
+	Has obsessions (persistent and intrusive inappropriate ideas, thoughts, or impulses)
+Cluster 31:
+	Often interrupts or intrudes on others (e.g., butts into conversations/games)
+Cluster 32:
+	Often is deceitful (e.g., steals, lies, forges, copies the work of others, or ﬁconsﬂ others)
+Cluster 33:
+	Often has muscle tension
+Cluster 34:
+	Often avoids, dislikes, or reluctantly engages in tasks requiring sustained mental effort
+Cluster 35:
+	Often is aggressive to other children (e.g., picks  fights or bullies)
+Cluster 36:
+	Often leaves seat in classroom or in other situations in which remaining seated is expected
+Cluster 37:
+	Often is forgetful in daily activities
+Cluster 38:
+	Often blames others for his or her mistakes or misbehavior
+Cluster 39:
+	Often does not follow through on instructions and fails to finish schoolwork, chores, or duties
+Cluster 40:
+	Often is ﬁon the goﬂ or often acts as if  ﬁdriven by a motorﬂ
+Cluster 41:
+	Often teases other children and interferes with their activities
+Cluster 42:
+	Sometimes for at least 2 weeks has feelings of worthlessness or excessive, inappropriate guilt
+Calculating clusters... expansion rules: ancestor
+Found 538 unique UMLS terms before expansion.
+Found 1845 unique UMLS terms after expansion.
+[75  8  1 70  8 66 50  1 65 48 71 59  2 52 53  2  2  0 64 51  2 45 44 42
+ 72  1 35  2  2  0 25 69  2  7  2 61 60 58  2 54 40  7 56 57 46 41 63 20
+ 49 37 73 74  3 38 26 29 67 34 68 12 55 39 32 18 47 28 23 19  9 27 22 43
+ 36 24 13 11 21 33 31  5 62 15 17 30 16 14 10  6  3  4]
+Found 75 groups.
+Cluster 0:
+	Often has difficulty awaiting turn
+	Often is negative, defiant, disobedient, or hostile toward authority figures
+Cluster 1:
+	Often does not seem to listen when spoken to directly
+	Often is distracted by extraneous stimuli
+	Often touchy or easily annoyed by others
+Cluster 2:
+	Often runs about or climbs excessively in situations in which it is inappropriate
+	Often talks excessively
+	Often blurts out answers before questions have been completed
+	Often loses temper
+	Often is spiteful or vindictive
+	Often is quarrelsome
+	Often cries easily
+	Often acts ﬁsmartﬂ
+	Often easily frustrated if demand are not met immediately
+Cluster 3:
+	Often has difficulty concentrating (mind goes blank)
+	Has difficulty remaining quiet according to classroom rules
+Cluster 4:
+	Has difficulty staying seated according to classroom rules
+Cluster 5:
+	Currently has a behavioral (e.g., fighting, vandalism, truancy) response to stress
+Cluster 6:
+	Has problems in interactions with staff (teacher or aide)
+Cluster 7:
+	Often is uncooperative
+	Often is destructive with property of others (e.g., vandalism)
+Cluster 8:
+	Often has difficulty sustaining attention in tasks or play activities
+	Often has difficulty organizing tasks and activities
+Cluster 9:
+	Sometimes for at least 2 weeks has psychomotor agitation (even more active than usual)
+Cluster 10:
+	Has problems in interactions with peers in the classroom
+Cluster 11:
+	Chronic feelings of hopelessness most of the time for at least a year
+Cluster 12:
+	Often has instability in relationships with others, reactive mood, and impulsivity
+Cluster 13:
+	Chronic poor concentration or difficulty making decisions most of the time for at least a year
+Cluster 14:
+	Has difficulty making transitions to the next topic or classroom period
+Cluster 15:
+	Has difficulty staying on  task for an entire classroom period
+Cluster 16:
+	Has difficulty attending to a group classroom activity or discussion
+Cluster 17:
+	Has problems in completion of work on classroom assignments
+Cluster 18:
+	Sometimes for at least a week has elevated, expansive or euphoric mood
+Cluster 19:
+	Sometimes for at least 2 weeks has markedly diminished interest or pleasure in most activities
+Cluster 20:
+	Has repetitive motor behavior (e.g., hand waving, body rocking, or picking at skin)
+Cluster 21:
+	Currently is hypervigilant (overly watchful or alert) or has exaggerated startle response
+Cluster 22:
+	Sometimes for at least 2 weeks is fatigued or has loss of energy
+Cluster 23:
+	Sometimes for at least 2 weeks has irritable or cranky mood (not just when frustrated)
+Cluster 24:
+	Chronic low self-esteem most of the time for at least a year
+Cluster 25:
+	Often makes noises (e.g., humming or odd sounds)
+Cluster 26:
+	Often has muscle tension
+Cluster 27:
+	Sometimes for at least 2 weeks has psychomotor retardation (slowed down in most activities)
+Cluster 28:
+	Sometimes for at least 2 weeks has depressed mood (sad, hopeless, discouraged)
+Cluster 29:
+	Often has excessive anxiety and worry (e.g., apprehensive expectation)
+Cluster 30:
+	Has problems in accuracy or neatness of written work in the classroom
+Cluster 31:
+	Currently has an emotional (e.g., nervous, worried, hopeless, tearful) response to stress
+Cluster 32:
+	Sometimes for at least a week has flight of ideas or says that thoughts are racing
+Cluster 33:
+	Currently is irritable, has anger outbursts, or has difficulty concentrating
+Cluster 34:
+	Often has excessive emotionality and attention-seeking behavior
+Cluster 35:
+	Often is angry and resentful
+Cluster 36:
+	Sometimes for at least 2 weeks has diminished ability to think or concentrate
+Cluster 37:
+	Has compulsions (repetitive behaviors or mental acts to reduce anxiety or distress)
+Cluster 38:
+	Often is irritable
+Cluster 39:
+	Sometimes for at least a week is more talkative than usual or seems pressured to keep talking
+Cluster 40:
+	Often is aggressive to other children (e.g., picks  fights or bullies)
+Cluster 41:
+	Has episodes of failure to resist aggressive impulses (to assault others or to destroy property)
+Cluster 42:
+	Often deliberately does things that annoy other people
+Cluster 43:
+	Sometimes for at least 2 weeks has feelings of worthlessness or excessive, inappropriate guilt
+Cluster 44:
+	Often actively defies or refuses adult requests or rules
+Cluster 45:
+	Often argues with adults
+Cluster 46:
+	Has persistent pattern of violating the basic rights of others or major societal norms
+Cluster 47:
+	Sometimes for at least a week is excessively involved in pleasurable but risky activities
+Cluster 48:
+	Often has difficulty maintaining alertness, orienting to requests, or executing directions
+Cluster 49:
+	Has obsessions (persistent and intrusive inappropriate ideas, thoughts, or impulses)
+Cluster 50:
+	Often loses things necessary for  activities (e.g., toys, school assignments, pencils, or books)
+Cluster 51:
+	Often has difficulty sitting still, being quiet, or inhibiting impulses in the classroom or at home
+Cluster 52:
+	Often has difficulty playing or engaging in leisure activities quietly
+Cluster 53:
+	Often is ﬁon the goﬂ or often acts as if  ﬁdriven by a motorﬂ
+Cluster 54:
+	Often teases other children and interferes with their activities
+Cluster 55:
+	Sometimes for at least a week has inflated self esteem or grandiosity
+Cluster 56:
+	Often is deceitful (e.g., steals, lies, forges, copies the work of others, or ﬁconsﬂ others)
+Cluster 57:
+	Often and seriously violates rules (e.g., is truant, runs away, or completely ignores class rules)
+Cluster 58:
+	Often changes mood quickly and drastically
+Cluster 59:
+	Often leaves seat in classroom or in other situations in which remaining seated is expected
+Cluster 60:
+	Often disturbs other children
+Cluster 61:
+	Often is restless or overactive
+Cluster 62:
+	Has difficulty getting started on classroom assignments
+Cluster 63:
+	Has motor or verbal tics (sudden, rapid, recurrent, nonrhythmic motor or verbal activity)
+Cluster 64:
+	Often interrupts or intrudes on others (e.g., butts into conversations/games)
+Cluster 65:
+	Often is forgetful in daily activities
+Cluster 66:
+	Often avoids, dislikes, or reluctantly engages in tasks requiring sustained mental effort
+Cluster 67:
+	Often has daytime sleepiness (unintended sleeping in inappropriate situations)
+Cluster 68:
+	Often has need for undue admiration, grandiose behavior, or lack of empathy
+Cluster 69:
+	Often is excitable, impulsive
+Cluster 70:
+	Often does not follow through on instructions and fails to finish schoolwork, chores, or duties
+Cluster 71:
+	Often fidgets with hands or feet or squirms in seat
+Cluster 72:
+	Often blames others for his or her mistakes or misbehavior
+Cluster 73:
+	Often is restless or seems keyed up or on edge
+Cluster 74:
+	Often is easily fatigued
+Cluster 75:
+	Often fails to give close attention to details or makes careless mistakes in schoolwork or tasks
+ 
