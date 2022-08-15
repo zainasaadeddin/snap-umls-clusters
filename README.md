@@ -1,5 +1,5 @@
 # snap-umls-clusters
-clusterize sentences based on UMLS terms and expanded UMLS terms present in them
+clusterize medical sentences (https://medicine.usask.ca/documents/psychiatry/snap-iv-form.pdf) based on Unified Medical Language System (UMLS) terms and expanded UMLS terms present in them
 
 
 ## Clustering
