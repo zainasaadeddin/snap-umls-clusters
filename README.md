@@ -4,8 +4,8 @@ clusterize medical sentences (https://medicine.usask.ca/documents/psychiatry/sna
 
 Thesis Supervisors:
 
-* Dr. Mohammed Maree
-* Dr. Mohammed Herzallah 
+* Dr. Mohammad Maree 
+* Dr. Mohammad Herzallah 
 * Dr. Joman Natsheh
 
 
