@@ -2,6 +2,13 @@
 clusterize medical sentences (https://medicine.usask.ca/documents/psychiatry/snap-iv-form.pdf) based on Unified Medical Language System (UMLS) terms and expanded UMLS terms present in them
 
 
+Thesis Supervisors:
+
+* Dr. Mohammed Maree
+* Dr. Mohammed Herzallah 
+* Dr. Joman Natsheh
+
+
 ## Clustering
 
 * Feature matrix
