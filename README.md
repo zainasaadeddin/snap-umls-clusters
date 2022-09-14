@@ -5,8 +5,8 @@ clusterize medical sentences (https://medicine.usask.ca/documents/psychiatry/sna
 Thesis Supervisors:
 
 * [Dr. Mohammad Maree ](https://scholar.google.com/citations?user=CoVmYzcAAAAJ&hl=en)
-* Dr. Mohammad Herzallah 
-* Dr. Joman Natsheh
+* [Dr. Mohammad Herzallah](https://scholar.google.com/citations?user=TPIc7J8AAAAJ&hl=en)
+* [Dr. Joman Natsheh](https://scholar.google.com/citations?user=M6WwVyEAAAAJ&hl=en)
 
 
 ## Clustering
