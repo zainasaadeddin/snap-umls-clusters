@@ -1,5 +1,8 @@
 # snap-umls-clusters
-clusterize [SNAP-IV ADHD questions](https://medicine.usask.ca/documents/psychiatry/snap-iv-form.pdf) based on Unified Medical Language System (UMLS) terms and expanded UMLS terms present in them. [Project Google Site](https://sites.google.com/view/zeina-master-project2021/)
+
+[Project Google Site](https://sites.google.com/view/zeina-master-project2021/)
+
+clusterize the [SNAP-IV ADHD questions](https://medicine.usask.ca/documents/psychiatry/snap-iv-form.pdf) based on Unified Medical Language System (UMLS) terms and expanded UMLS terms present in them. 
 
 
 Thesis Supervisors:
