@@ -1,5 +1,7 @@
 # snap-umls-clusters
 
+[![DOI](https://zenodo.org/badge/403273392.svg)](https://zenodo.org/badge/latestdoi/403273392)
+
 [Project Google Site](https://sites.google.com/view/zeina-master-project2021/)
 
 clusterize the [SNAP-IV ADHD questions](https://medicine.usask.ca/documents/psychiatry/snap-iv-form.pdf) based on Unified Medical Language System (UMLS) terms and expanded UMLS terms present in them. 
@@ -43,5 +45,5 @@ Thesis Supervisors:
 
 `python main.py SNAP_IV_Long_with_Scoring.pdf`
 
-[![DOI](https://zenodo.org/badge/403273392.svg)](https://zenodo.org/badge/latestdoi/403273392)
+
 
