@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: snap-umls-clusters
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Zeina
+    family-names: Saadeddin
+    email: jszeina@gmail.com
+    name-particle: Zeina
+    affiliation: Arab American University Palestine
+    orcid: 'https://orcid.org/0000-0003-0000-5146'
