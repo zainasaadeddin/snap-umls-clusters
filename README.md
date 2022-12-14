@@ -42,3 +42,6 @@ Thesis Supervisors:
 ## Execute
 
 `python main.py SNAP_IV_Long_with_Scoring.pdf`
+
+[![DOI](https://zenodo.org/badge/403273392.svg)](https://zenodo.org/badge/latestdoi/403273392)
+
